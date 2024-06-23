@@ -26,7 +26,7 @@
 3. Go to file task.js and copy
    ![image](https://github.com/Tdropid/auto-task-pambi/assets/83104623/adcb015e-94ce-4b62-9760-0a8f5c0e0258)
 
-4. Click console, and paste script code
+4. Click console, and paste script code then enter
    ![image](https://github.com/Tdropid/auto-task-pambi/assets/83104623/63bca3c4-bced-4a2c-8123-7679345828fa)
 6. Done
    ![image](https://github.com/Tdropid/auto-task-pambi/assets/83104623/f2d5d906-5ff9-4cdc-a1ac-b03e08415a6b)
