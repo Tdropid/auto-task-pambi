@@ -17,7 +17,7 @@
 - Access to a web page that has elements matching the described tasks.
 
 ### 👣 Steps
-1. First go to https://www.pambi.tech/airdrop/8uNjuiQWD3jZsKWHuUFEGjZu8QoW4bqB7ZKLhupe7BQv, connect wallet
+1. First go to https://www.pambi.tech/airdrop/8uNjuiQWD3jZsKWHuUFEGjZu8QoW4bqB7ZKLhupe7BQv, connect the wallet and refresh the page to avoid errors
    ![image](https://github.com/Tdropid/auto-task-pambi/assets/83104623/d7462179-9862-412f-b90d-17ca03a38fd0)
 
 2. Right-click on the mouse then click inspect
